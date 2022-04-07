@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.daclink.drew.sp22.cst438_project01_starter.FirstFragment"
+        android:name="com.example.cst438_project03_mobile.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.daclink.drew.sp22.cst438_project01_starter.SecondFragment"
+        android:name="com.example.cst438_project03_mobile.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 

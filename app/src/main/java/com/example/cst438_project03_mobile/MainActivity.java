@@ -1,7 +1,6 @@
-package com.daclink.drew.sp22.cst438_project01_starter;
+package com.example.cst438_project03_mobile;
 
 import android.os.Bundle;
-
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,7 +12,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.daclink.drew.sp22.cst438_project01_starter.databinding.ActivityMainBinding;
+import com.example.cst438_project03_mobile.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;

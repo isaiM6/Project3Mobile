@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.daclink.drew.sp22.cst438_project01_starter"
+        applicationId "com.example.cst438_project03_mobile"
         minSdk 28
         targetSdk 31
         versionCode 1
